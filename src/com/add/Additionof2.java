@@ -7,7 +7,7 @@ public class Additionof2 {
 	}
 	public static void main(String[] args) {
 		Additionof2 add2=new Additionof2();
-		int z=add2.add2(4, 3);
+		int z=add2.add2(4, 9);
 		System.out.println("addition of two numbers is  "+z);
 
 	}
