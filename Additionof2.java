@@ -1,5 +1,3 @@
-package com.add;
-
 public class Additionof2 {
 
 	public int add2(int x, int y) {
